@@ -1,0 +1,19 @@
+.color-empty {
+    fill: #f7fafc; /* This is a very light gray color for dates with no data */
+}
+
+.color-scale-1 {
+    fill: #4bf061; /* This is a very light green color for dates with a count of 1 */
+}
+
+.color-scale-2 {
+    fill: #16d50b; /* This is a light green color for dates with a count of 2 */
+}
+
+.color-scale-3 {
+    fill: #119611; /* This is a medium green color for dates with a count of 3 */
+}
+
+.color-scale-4 {
+    fill: #036803; /* This is a dark green color for dates with a count of 4 or more */
+}
