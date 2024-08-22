@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Md Kamran",
+  "author": "MGiri",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

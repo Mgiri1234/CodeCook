@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Introduction</h2>
         <p className="mb-4">
-          Welcome to AlgoForces. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website [www.algoforces.com] and use our services. Please read this policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+          Welcome to CodeCook. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website [www.CodeCook.com] and use our services. Please read this policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
         </p>
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Information We Collect</h2>
@@ -84,14 +84,14 @@ const PrivacyPolicy = () => {
           If you have questions or comments about this Privacy Policy, please contact us at:
         </p>
         <p className="mb-4">
-          AlgoForces<br />
-          Email: <a href="mailto:support@algoforces.com" className="text-blue-600 underline">support@algoforces.com</a><br />
+        CodeCook<br />
+          Email: <a href="mailto:support@CodeCook.com" className="text-blue-600 underline">support@CodeCook.com</a><br />
           Address: 123 Code Street, Algorithm City, AL 45678, India
         </p>
       </section>
       
       <footer className="text-center mt-8">
-        <p>Thank you for trusting AlgoForces with your information. Together, let's code the future!</p>
+        <p>Thank you for trusting CodeCook with your information. Together, let's code the future!</p>
       </footer>
     </div>
   );

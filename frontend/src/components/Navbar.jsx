@@ -29,7 +29,7 @@ function Navbar() {
             navigate('/home');
           }}
         >
-          <a href="/home" className="no-underline">AlgoForces</a>
+          <a href="/home" className="no-underline">CodeCook</a>
         </h1>
         <h1
           className="inline-block ml-3 text-2xl font-semibold cursor-pointer hover:text-blue-300 transition duration-300"

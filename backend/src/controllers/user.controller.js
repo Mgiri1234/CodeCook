@@ -265,7 +265,7 @@ const sendMail = asyncHandler(async (data) => {
     });
 
     const mailOptions = {
-        from: '"AlgoForcesTeam@noreply.com" <' + process.env.EMAIL + '>',
+        from: '"CodeCookTeam@noreply.com" <' + process.env.EMAIL + '>',
         to: email,
         subject: subject,
         text: text

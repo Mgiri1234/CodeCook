@@ -7,23 +7,23 @@ const ContactUs = () => {
       
       <section>
         <h2 className="text-2xl font-semibold mb-3">We'd Love to Hear From You!</h2>
-        <p className="mb-3">At AlgoForces, we value your feedback and are here to assist you with any questions or concerns you may have. Feel free to reach out to us through any of the following methods:</p>
+        <p className="mb-3">At CodeCook, we value your feedback and are here to assist you with any questions or concerns you may have. Feel free to reach out to us through any of the following methods:</p>
         
         <h3 className="text-xl font-semibold mb-2">Email</h3>
-        <p className="mb-3">For general inquiries and support, please email us at: <a href="mailto:support@algoforces.com" className="text-blue-500 hover:text-blue-700">support@algoforces.com</a></p>
+        <p className="mb-3">For general inquiries and support, please email us at: <a href="mailto:support@CodeCook.com" className="text-blue-500 hover:text-blue-700">support@CodeCook.com</a></p>
         
         <h3 className="text-xl font-semibold mb-2">Social Media</h3>
         <p className="mb-2">Stay connected and follow us on social media for the latest updates and news:</p>
         <ul className="list-disc list-inside mb-3">
-          <li><strong className="font-semibold">Facebook:</strong> <a href="https://www.facebook.com/algoforces" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">facebook.com/algoforces</a></li>
-          <li><strong className="font-semibold">Twitter:</strong> <a href="https://twitter.com/algoforces" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">twitter.com/algoforces</a></li>
-          <li><strong className="font-semibold">LinkedIn:</strong> <a href="https://www.linkedin.com/company/algoforces" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">linkedin.com/company/algoforces</a></li>
+          <li><strong className="font-semibold">Facebook:</strong> <a href="https://www.facebook.com/CodeCook" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">facebook.com/CodeCook</a></li>
+          <li><strong className="font-semibold">Twitter:</strong> <a href="https://twitter.com/CodeCook" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">twitter.com/CodeCook</a></li>
+          <li><strong className="font-semibold">LinkedIn:</strong> <a href="https://www.linkedin.com/company/CodeCook" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">linkedin.com/company/CodeCook</a></li>
         </ul>
         
         <h3 className="text-xl font-semibold mb-2">Office Address</h3>
         <p className="mb-3">If you prefer to visit us, our office is located at:</p>
         <address className="mb-3">
-          AlgoForces Headquarters<br />
+        CodeCook Headquarters<br />
           123 Code Street<br />
           Algorithm City, AL 45678<br />
           India
@@ -49,7 +49,7 @@ const ContactUs = () => {
       </section>
       
       <footer>
-        <p className="text-lg font-semibold">Together, let's code the future. Welcome to AlgoForces!</p>
+        <p className="text-lg font-semibold">Together, let's code the future. Welcome to CodeCook!</p>
       </footer>
     </div>
   );

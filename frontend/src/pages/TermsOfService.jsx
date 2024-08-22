@@ -10,7 +10,7 @@ const TermsOfService = () => {
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Introduction</h2>
         <p className="mb-4">
-          Welcome to AlgoForces! These terms of service outline the rules and regulations for the use of AlgoForces's website and services. By accessing this website, we assume you accept these terms and conditions in full. Do not continue to use AlgoForces's website if you do not accept all of the terms and conditions stated on this page.
+          Welcome to CodeCook! These terms of service outline the rules and regulations for the use of CodeCook's website and services. By accessing this website, we assume you accept these terms and conditions in full. Do not continue to use CodeCook's website if you do not accept all of the terms and conditions stated on this page.
         </p>
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Use of Our Services</h2>
@@ -33,7 +33,7 @@ const TermsOfService = () => {
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Intellectual Property</h2>
         <p className="mb-4">
-          The service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of AlgoForces and its licensors. The service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of AlgoForces.
+          The service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of CodeCook and its licensors. The service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of CodeCook.
         </p>
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Termination</h2>
@@ -43,7 +43,7 @@ const TermsOfService = () => {
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Limitation of Liability</h2>
         <p className="mb-4">
-          In no event shall AlgoForces, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your use or inability to use the service; (ii) any unauthorized access to or use of our servers and/or any personal information stored therein; (iii) any interruption or cessation of transmission to or from our service; (iv) any bugs, viruses, trojan horses, or the like that may be transmitted to or through our service by any third party; and/or (v) any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the service, whether based on warranty, contract, tort (including negligence), or any other legal theory, and whether or not we were advised of the possibility of such damages.
+          In no event shall CodeCook, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your use or inability to use the service; (ii) any unauthorized access to or use of our servers and/or any personal information stored therein; (iii) any interruption or cessation of transmission to or from our service; (iv) any bugs, viruses, trojan horses, or the like that may be transmitted to or through our service by any third party; and/or (v) any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the service, whether based on warranty, contract, tort (including negligence), or any other legal theory, and whether or not we were advised of the possibility of such damages.
         </p>
         
         <h2 className="text-2xl font-semibold text-blue-600 mb-4">Governing Law</h2>
@@ -61,14 +61,14 @@ const TermsOfService = () => {
           If you have any questions about these terms, please contact us at:
         </p>
         <p className="mb-4">
-          AlgoForces<br />
-          Email: <a href="mailto:support@algoforces.com" className="text-blue-600 underline">support@algoforces.com</a><br />
+        CodeCook<br />
+          Email: <a href="mailto:support@CodeCook.com" className="text-blue-600 underline">support@CodeCook.com</a><br />
           Address: 123 Code Street, Algorithm City, AL 45678, India
         </p>
       </section>
       
       <footer className="text-center mt-8">
-        <p>Thank you for using AlgoForces. Together, let's code the future!</p>
+        <p>Thank you for using CodeCook. Together, let's code the future!</p>
       </footer>
     </div>
   );
