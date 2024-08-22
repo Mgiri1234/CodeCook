@@ -1,0 +1,21 @@
+{
+    "projects": [
+      {
+        "name": "frontend",
+        "src": "frontend/",
+        "buildCommand": "npm run build",
+        "outputDirectory": "frontend/.next"
+      },
+      {
+        "name": "backend",
+        "src": "backend/",
+        "buildCommand": "npm install && npm start"
+      },
+      {
+        "name": "compiler",
+        "src": "compiler/",
+        "buildCommand": "npm install && npm start"
+      }
+    ]
+  }
+  
